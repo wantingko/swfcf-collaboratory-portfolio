@@ -1,0 +1,21 @@
+html, body{
+    scroll-behavior: smooth;
+    margin: 3em auto;
+    width: 80%;
+    /* font-family: 'Karla', sans-serif; */
+    height: 100%;
+}
+
+.logo {
+    margin-bottom: 3em;
+}
+.caption {
+    font-size: large;
+    text-align: center;
+    margin: .5em auto 2em auto;
+    color: gray;
+}
+/* footer {
+    margin-top: 3em;
+    color: aquamarine;
+} */
